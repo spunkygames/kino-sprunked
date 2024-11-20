@@ -1,6 +1,6 @@
 # Kino Sprunked
 
-Get ready to dive into a world of vibrant colors and exhilarating gameplay with Kino Sprunked! This fast-paced, arcade-style game from [Spunky Game](https://spunky.games) challenges your reflexes and strategic thinking.  Experience the thrill as you navigate through dynamic levels, collecting power-ups and dodging obstacles. Play Kino Sprunked Now: https://spunky.games/kino-sprunked
+Get ready to dive into a world of vibrant colors and exhilarating gameplay with Kino Sprunked! This fast-paced, arcade-style game from [Spunky Game](https://spunky.games) challenges your reflexes and strategic thinking.  Experience the thrill as you navigate through dynamic levels, collecting power-ups and dodging obstacles. Play Kino Sprunked Now:[kino-sprunked](https://spunky.games/kino-sprunked)
 
 ---
 
@@ -48,7 +48,7 @@ Kino Sprunked is an addictive arcade game developed by [Spunky Game](https://spu
 
 ## Frequently Asked Questions (FAQ) <a name="faq"></a>
 
-1. **Q: How do I start playing Kino Sprunked?**  A: You can play Kino Sprunked Now: https://spunky.games/kino-sprunked.
+1. **Q: How do I start playing Kino Sprunked?**  A: You can play Kino Sprunked Now:[kino-sprunked](https://spunky.games/kino-sprunked)
 2. **Q: What are the controls for the game?** A: Use the arrow keys to move Kino.
 3. **Q: How do I earn points?** A: Collect coins scattered throughout the levels.
 4. **Q: What happens if I hit an obstacle?** A: You lose a life.
@@ -63,4 +63,4 @@ Kino Sprunked is an addictive arcade game developed by [Spunky Game](https://spu
 
 ---
 
-Ready to get Sprunked? Play Kino Sprunked Now: https://spunky.games/kino-sprunked
+Ready to get Sprunked? Play Kino Sprunked Now:[kino-sprunked](https://spunky.games/kino-sprunked)
