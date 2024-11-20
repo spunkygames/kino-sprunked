@@ -15,14 +15,14 @@ Get ready to dive into a world of vibrant colors and exhilarating gameplay with 
 
 ## What is Kino Sprunked? <a name="what-is-kino-sprunked"></a>
 
-Kino Sprunked is an addictive arcade game developed by [Spunky Game](https://spunky.games) where players control a lively character named Kino.  The objective is to navigate through a series of increasingly challenging levels, collecting coins, and avoiding obstacles.  The game features vibrant graphics, engaging sound effects, and power-ups that add layers of strategic depth to the gameplay. Unlike the laid-back experience of [Fiddlebops](https://spunky.games/fiddlebops), Kino Sprunked offers a more intense and dynamic challenge.  It's different from the offerings at [ESprunki Game](https://esprunki.com/), providing a unique and fast-paced experience.
+Kino Sprunked is an addictive arcade game developed by Spunky Game where players control a lively character named Kino.  The objective is to navigate through a series of increasingly challenging levels, collecting coins, and avoiding obstacles.  The game features vibrant graphics, engaging sound effects, and power-ups that add layers of strategic depth to the gameplay. Unlike the laid-back experience of [Fiddlebops](https://spunky.games/fiddlebops), Kino Sprunked offers a more intense and dynamic challenge.  It's different from the offerings at [ESprunki Game](https://esprunki.com/), providing a unique and fast-paced experience.
 
 
 ---
 
 ## How to Play <a name="how-to-play"></a>
 
-1. **Start the Game:** Launch Kino Sprunked from the [Spunky Game](https://spunky.games) website.
+1. **Start the Game:** Launch Kino Sprunked from the Spunky Game website.
 2. **Control Kino:** Use the arrow keys (or designated on-screen controls) to move Kino left, right, up, and down.
 3. **Collect Coins:** Gather as many coins as possible to increase your score.
 4. **Avoid Obstacles:**  Navigate carefully to avoid colliding with obstacles. Contact will result in a loss of life.
@@ -48,19 +48,19 @@ Kino Sprunked is an addictive arcade game developed by [Spunky Game](https://spu
 
 ## Frequently Asked Questions (FAQ) <a name="faq"></a>
 
-1. **Q: How do I start playing Kino Sprunked?**  A: You can play Now:[kino-sprunked](https://spunky.games/kino-sprunked)
+1. **Q: How do I start playing Kino Sprunked?**  A: You can play Now:kino-sprunked.
 2. **Q: What are the controls for the game?** A: Use the arrow keys to move Kino.
 3. **Q: How do I earn points?** A: Collect coins scattered throughout the levels.
 4. **Q: What happens if I hit an obstacle?** A: You lose a life.
 5. **Q: What are the power-ups available?** A: Power-ups include invincibility and speed boosts.
 6. **Q: How many levels are there?** A: The game features a multitude of exciting levels.
 7. **Q: Is there a leaderboard?** A: Yes, compete for the highest score.
-8. **Q: Who developed Kino Sprunked?** A:  The game is developed by [Spunky Game](https://spunky.games).
-9. **Q:  Is Kino Sprunked similar to [Fiddlebops](https://spunky.games/fiddlebops)?** A: While both are from [Spunky Game](https://spunky.games), Kino Sprunked offers a faster-paced experience.
-10. **Q: Where can I find more games by the same developer?** A: Visit the [Spunky Game](https://spunky.games) website.
+8. **Q: Who developed Kino Sprunked?** A:  The game is developed by Spunky Game.
+9. **Q:  Is Kino Sprunked similar to Fiddlebops?** A: While both are from Spunky Game, Kino Sprunked offers a faster-paced experience.
+10. **Q: Where can I find more games by the same developer?** A: Visit the Spunky Game website.
 11. **Q:  Is Kino Sprunked available on mobile?**  A:  This information is not currently available.
 
 
 ---
 
-Ready to get Sprunked? Play Now:[kino-sprunked](https://spunky.games/kino-sprunked)
+Ready to get Sprunked? Play Now:kino-sprunked.
